@@ -1,6 +1,6 @@
 # Bootcamp-Testing-Kolektor
 
-## Bitácora Bootcamp Testing QA Kolektor: Capturando Conocimiento y Crecimiento.
+## Bootcamp Testing QA Kolektor.
 
 Este sitio web es una bitácora personal del Bootcamp Testing QA impartido por Kolektor, donde comparto mis apuntes y reflexiones en clase. Utilizo el chat-GPT4 como complemento para ampliar mis conocimientos y profundizar en los temas abordados durante el bootcamp.
 
